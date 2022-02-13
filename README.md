@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This app is deployment in Netlify
+
+This is the URL for this app: https://peaceful-goodall-5d77fe.netlify.app/
+This is only using a local json file for the database. No actual backend for this.
+
 ## Available Scripts
 
 In the project directory, you can run:
