@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": "ea41e9ef-3582-4f31-8dc1-c9c081493c2a",
+      "rating": 10,
+      "text": "This is coming from the backend 1"
+    },
+    {
+      "id": "41762357-4678-4db0-8e00-31f2d0583025",
+      "rating": 9,
+      "text": "This is coming from the backend 2"
+    },
+    {
+      "id": "c3d310d0-e1e6-4296-8e2e-9b9bb85698de",
+      "rating": 8,
+      "text": "This is coming from the backend 3"
+    },
+    {
+      "text": "This is coming from the backend 5",
+      "rating": 5,
+      "id": "koyYF1Q"
+    }
+  ]
+}
