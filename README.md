@@ -6,6 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run dev'
+
+This will run concurrently to run both of the ff below:
+
+1. Runs the front-end app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+2. Runs the live back-end server for development mode only.
+
+### `npm run server`
+
+This will run the backend using the live server. Only works in local machine.
+You need to create another node for the react front-end app.
+
 ### `npm start`
 
 Runs the app in the development mode.\
