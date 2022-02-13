@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm run dev'
+### `npm run dev`
 
 This will run concurrently to run both of the ff below:
 
